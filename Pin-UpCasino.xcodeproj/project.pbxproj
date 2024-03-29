@@ -7,18 +7,53 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B9FF3E92BB6331A00E864C3 /* BallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9FF3E82BB6331A00E864C3 /* BallView.swift */; };
+		8B9FF3EB2BB6381100E864C3 /* BallManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9FF3EA2BB6381100E864C3 /* BallManager.swift */; };
+		8B9FF3ED2BB70B1E00E864C3 /* FunctionForResize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9FF3EC2BB70B1E00E864C3 /* FunctionForResize.swift */; };
 		8BA787592BB5A60900F35BEB /* Pin_UpCasinoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA787582BB5A60900F35BEB /* Pin_UpCasinoApp.swift */; };
 		8BA7875B2BB5A60900F35BEB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA7875A2BB5A60900F35BEB /* ContentView.swift */; };
 		8BA7875D2BB5A60B00F35BEB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BA7875C2BB5A60B00F35BEB /* Assets.xcassets */; };
 		8BA787602BB5A60B00F35BEB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BA7875F2BB5A60B00F35BEB /* Preview Assets.xcassets */; };
+		8BA787692BB5A6D000F35BEB /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA787682BB5A6D000F35BEB /* BackgroundView.swift */; };
+		8BA7876B2BB5A83100F35BEB /* ViewNameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA7876A2BB5A83100F35BEB /* ViewNameView.swift */; };
+		8BA787702BB5A93300F35BEB /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8BA7876F2BB5A93300F35BEB /* Inter-Bold.ttf */; };
+		8BA787722BB5A93900F35BEB /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8BA787712BB5A93900F35BEB /* Inter-Regular.ttf */; };
+		8BA787752BB5AA7900F35BEB /* GreenButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA787742BB5AA7800F35BEB /* GreenButtonView.swift */; };
+		8BA787772BB5AB1900F35BEB /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA787762BB5AB1900F35BEB /* GameView.swift */; };
+		8BA787792BB5AB4700F35BEB /* StatisticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA787782BB5AB4700F35BEB /* StatisticsView.swift */; };
+		8BA7877B2BB5AB6100F35BEB /* UpgradesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA7877A2BB5AB6100F35BEB /* UpgradesView.swift */; };
+		8BA7877D2BB5AB6F00F35BEB /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA7877C2BB5AB6F00F35BEB /* SettingsView.swift */; };
+		8BA7877F2BB5AF7900F35BEB /* Inter-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8BA7877E2BB5AF7900F35BEB /* Inter-ExtraBold.ttf */; };
+		8BA787812BB5B0F200F35BEB /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8BA787802BB5B0F200F35BEB /* Inter-Medium.ttf */; };
+		8BA787832BB5B77500F35BEB /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA787822BB5B77500F35BEB /* GameScene.swift */; };
+		8BA787852BB5B8C200F35BEB /* EachStatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA787842BB5B8C200F35BEB /* EachStatView.swift */; };
+		8BA787872BB61A4800F35BEB /* GameManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA787862BB61A4700F35BEB /* GameManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B9FF3E82BB6331A00E864C3 /* BallView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BallView.swift; sourceTree = "<group>"; };
+		8B9FF3EA2BB6381100E864C3 /* BallManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BallManager.swift; sourceTree = "<group>"; };
+		8B9FF3EC2BB70B1E00E864C3 /* FunctionForResize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionForResize.swift; sourceTree = "<group>"; };
 		8BA787552BB5A60900F35BEB /* Pin-UpCasino.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pin-UpCasino.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BA787582BB5A60900F35BEB /* Pin_UpCasinoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pin_UpCasinoApp.swift; sourceTree = "<group>"; };
 		8BA7875A2BB5A60900F35BEB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8BA7875C2BB5A60B00F35BEB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8BA7875F2BB5A60B00F35BEB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8BA787682BB5A6D000F35BEB /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
+		8BA7876A2BB5A83100F35BEB /* ViewNameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewNameView.swift; sourceTree = "<group>"; };
+		8BA7876F2BB5A93300F35BEB /* Inter-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Bold.ttf"; sourceTree = "<group>"; };
+		8BA787712BB5A93900F35BEB /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
+		8BA787732BB5A94C00F35BEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		8BA787742BB5AA7800F35BEB /* GreenButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreenButtonView.swift; sourceTree = "<group>"; };
+		8BA787762BB5AB1900F35BEB /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
+		8BA787782BB5AB4700F35BEB /* StatisticsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsView.swift; sourceTree = "<group>"; };
+		8BA7877A2BB5AB6100F35BEB /* UpgradesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpgradesView.swift; sourceTree = "<group>"; };
+		8BA7877C2BB5AB6F00F35BEB /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		8BA7877E2BB5AF7900F35BEB /* Inter-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraBold.ttf"; sourceTree = "<group>"; };
+		8BA787802BB5B0F200F35BEB /* Inter-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Medium.ttf"; sourceTree = "<group>"; };
+		8BA787822BB5B77500F35BEB /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		8BA787842BB5B8C200F35BEB /* EachStatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EachStatView.swift; sourceTree = "<group>"; };
+		8BA787862BB61A4700F35BEB /* GameManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +86,24 @@
 		8BA787572BB5A60900F35BEB /* Pin-UpCasino */ = {
 			isa = PBXGroup;
 			children = (
+				8BA787732BB5A94C00F35BEB /* Info.plist */,
 				8BA787582BB5A60900F35BEB /* Pin_UpCasinoApp.swift */,
 				8BA7875A2BB5A60900F35BEB /* ContentView.swift */,
+				8BA787682BB5A6D000F35BEB /* BackgroundView.swift */,
+				8BA7876A2BB5A83100F35BEB /* ViewNameView.swift */,
+				8BA787842BB5B8C200F35BEB /* EachStatView.swift */,
+				8BA787742BB5AA7800F35BEB /* GreenButtonView.swift */,
+				8BA787762BB5AB1900F35BEB /* GameView.swift */,
+				8BA787782BB5AB4700F35BEB /* StatisticsView.swift */,
+				8BA7877A2BB5AB6100F35BEB /* UpgradesView.swift */,
+				8B9FF3E82BB6331A00E864C3 /* BallView.swift */,
+				8BA7877C2BB5AB6F00F35BEB /* SettingsView.swift */,
+				8BA787822BB5B77500F35BEB /* GameScene.swift */,
+				8BA787862BB61A4700F35BEB /* GameManager.swift */,
+				8B9FF3EA2BB6381100E864C3 /* BallManager.swift */,
+				8B9FF3EC2BB70B1E00E864C3 /* FunctionForResize.swift */,
 				8BA7875C2BB5A60B00F35BEB /* Assets.xcassets */,
+				8BA7876E2BB5A91400F35BEB /* Fonts */,
 				8BA7875E2BB5A60B00F35BEB /* Preview Content */,
 			);
 			path = "Pin-UpCasino";
@@ -65,6 +115,17 @@
 				8BA7875F2BB5A60B00F35BEB /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8BA7876E2BB5A91400F35BEB /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				8BA787802BB5B0F200F35BEB /* Inter-Medium.ttf */,
+				8BA7876F2BB5A93300F35BEB /* Inter-Bold.ttf */,
+				8BA7877E2BB5AF7900F35BEB /* Inter-ExtraBold.ttf */,
+				8BA787712BB5A93900F35BEB /* Inter-Regular.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +186,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BA7877F2BB5AF7900F35BEB /* Inter-ExtraBold.ttf in Resources */,
+				8BA787702BB5A93300F35BEB /* Inter-Bold.ttf in Resources */,
+				8BA787812BB5B0F200F35BEB /* Inter-Medium.ttf in Resources */,
 				8BA787602BB5A60B00F35BEB /* Preview Assets.xcassets in Resources */,
+				8BA787722BB5A93900F35BEB /* Inter-Regular.ttf in Resources */,
 				8BA7875D2BB5A60B00F35BEB /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,7 +202,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BA787832BB5B77500F35BEB /* GameScene.swift in Sources */,
+				8B9FF3ED2BB70B1E00E864C3 /* FunctionForResize.swift in Sources */,
+				8B9FF3E92BB6331A00E864C3 /* BallView.swift in Sources */,
+				8BA787872BB61A4800F35BEB /* GameManager.swift in Sources */,
+				8BA7876B2BB5A83100F35BEB /* ViewNameView.swift in Sources */,
+				8B9FF3EB2BB6381100E864C3 /* BallManager.swift in Sources */,
+				8BA787692BB5A6D000F35BEB /* BackgroundView.swift in Sources */,
+				8BA787752BB5AA7900F35BEB /* GreenButtonView.swift in Sources */,
+				8BA7877D2BB5AB6F00F35BEB /* SettingsView.swift in Sources */,
+				8BA7877B2BB5AB6100F35BEB /* UpgradesView.swift in Sources */,
+				8BA787792BB5AB4700F35BEB /* StatisticsView.swift in Sources */,
 				8BA7875B2BB5A60900F35BEB /* ContentView.swift in Sources */,
+				8BA787772BB5AB1900F35BEB /* GameView.swift in Sources */,
+				8BA787852BB5B8C200F35BEB /* EachStatView.swift in Sources */,
 				8BA787592BB5A60900F35BEB /* Pin_UpCasinoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -197,7 +275,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -254,7 +332,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -275,11 +353,11 @@
 				DEVELOPMENT_TEAM = 9NYCJV4J3K;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Pin-UpCasino/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,11 +382,11 @@
 				DEVELOPMENT_TEAM = 9NYCJV4J3K;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Pin-UpCasino/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
